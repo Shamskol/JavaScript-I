@@ -80,6 +80,7 @@ console.log(`Car 33 is a *car year goes here* *car make goes here* *car model go
 // ==== Challenge 2 ====
 // The dealer needs the information on the last car in their inventory.  What is the make and model of the last car in the inventory?  Log the make and model into the console.
 let lastCar = 0;
+
 console.log();
 
 // ==== Challenge 3 ====
